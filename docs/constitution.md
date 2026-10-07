@@ -8,4 +8,4 @@ Principios innegociables. Toda spec, plan y tarea debe cumplirlos.
 4. Pruebas como puerta: la lógica se prueba con Jest. Prohibido avanzar con pruebas en rojo. La interfaz se verifica con la lista manual de la tarea.
 5. Los datos del usuario son sagrados: lo guardado se conserva ante cambios de código y eliminar siempre pide confirmación.
 6. Exactitud numérica: los cálculos con notas deben dar el estado correcto en los bordes de las reglas de negocio. Cómo se logra se decide en la spec y en el plan, y se justifica.
-```[cite: 4]
+
